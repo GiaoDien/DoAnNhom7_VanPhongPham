@@ -14,8 +14,8 @@ Website được xây dựng nhằm mục đích học tập, sử dụng **Boot
 
 
 ### Link xuất bản giao diện
-Team Published Link (GitHub Pages):
-https://giaodien.github.io/DoAnNhom7_VanPhongPham/TrangChu.html
+Team Published Link:
+[GitHub Pages - Trang chủ](https://giaodien.github.io/DoAnNhom7_VanPhongPham/TrangChu.html)
 
 
 
